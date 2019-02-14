@@ -1,0 +1,13 @@
+.box-1{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color: green;
+}
+.box-2{
+    display: flex;
+    height:100vh;
+    justify-content: space-around;
+    align-items: center;
+}
